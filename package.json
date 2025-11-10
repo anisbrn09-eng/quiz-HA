@@ -1,0 +1,10 @@
+{
+  "name": "quiz-ha-saqqarah",
+  "version": "1.0.0",
+  "description": "Quiz app (Saqqarah) — web assets for Capacitor/Android build",
+  "scripts": {
+    "build": "echo 'Web assets are ready in www/'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
